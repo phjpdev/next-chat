@@ -482,4 +482,5 @@ If you want to add a new translation, read this [document](./docs/translation.md
 [MIT](https://opensource.org/license/mit/)
 f i x   b a d g e  
  f i n a l   f i x  
+ b a d g e   4  
  
