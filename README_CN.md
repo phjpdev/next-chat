@@ -1,7 +1,6 @@
 <div align="center">
 
 // THis is text commit for test branch
-// make new branch
 <a href='#企业版'>
   <img src="./docs/images/ent.svg" alt="icon"/>
 </a>
